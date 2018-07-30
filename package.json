@@ -1,0 +1,20 @@
+{
+  "name": "link-test-consumed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKalt/link-test-consumed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKalt/link-test-consumed/issues"
+  },
+  "homepage": "https://github.com/SKalt/link-test-consumed#readme"
+}
